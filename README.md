@@ -1,4 +1,4 @@
-# Gamers-SteamReviews-Games
+# gamers-steamreviews-games
 This is a data visualization project for CS 133, we are analyzing Steam Reviews and game metadata to understand trends in player retention, game enjoyability, player sentiment, and overall Steam trends. We utilize two datasets, Steam Game Reviews (990K rows) and Steam Games Reviews and Rankings (242 rows). These datasets provide game metadata such as genres, user reviews, recommendations, and dates to allow for timescale analysis.
 
 ## Team 4 Members
