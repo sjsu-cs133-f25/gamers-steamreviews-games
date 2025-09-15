@@ -8,12 +8,20 @@ This is a data visualization project for CS 133, we are analyzing Steam Reviews 
 - Sai Vishnumolakala
 
 ## Datasets
-These are links to dataset downloads to set up the project. These should be placed in the data folder and should not take more than a few minutes.
+These are links to dataset downloads to set up the project. These should be placed in the `/data` folder and should not take more than a few minutes.
 
 1. Steam Reviews Dataset - https://www.gigasheet.com/sample-data/steam-game-reviews (~500 MB) (990K rows)
 
 2. Steam Game Metadata - https://www.kaggle.com/datasets/mohamedtarek01234/steam-games-reviews-and-rankings (~1 MB) (242 rows)
 
+The Steam Reviews Dataset contains a significant amount of information surrounding what users value in games and in critiques. This can provide video game companies insight into what types of games players enjoy. With 990K rows over the course of 2014 to 2024, this dataset gives a significant amount of information on trends in user sentiment. The Steam Game Metadata dataset enriches the reviews with information on genre and popularity of games. It gives further insight into what qualities players appreciate in certain types of games.
+
+## Notebooks
+*NOTE*: Ensure that the data is properly downloaded and placed in `/data` as instructed in the `/data` README file.
+
+`notebooks/brainstorm.ipynb` - This contains brainstorming and data exploration for ideas regarding the project. Multiple other datasets can be found here that were considered for the project, including the dataset currently being used for this project.
+
+`notebooks/01_explore.ipynb` - Contains exploration of the Steam Reviews Dataset as well as data cleaning and exploratory visualizations.
 
 ## Setup Instructions
 
