@@ -28,7 +28,7 @@ The Steam Reviews Dataset contains a significant amount of information surroundi
 1. Clone the Repository
 ```
    git clone https://github.com/<your-username>/Gamers-SteamReviews-Games.git
-   cd Team4-Brainstorming
+   cd Gamers-SteamReviews-Games
 ```
 
 2. Create a Virtual Environment (Optional but Recommended)
