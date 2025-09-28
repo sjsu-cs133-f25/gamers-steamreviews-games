@@ -23,6 +23,8 @@ The Steam Reviews Dataset contains a significant amount of information surroundi
 
 `notebooks/01_explore.ipynb` - Contains exploration of the Steam Reviews Dataset as well as data cleaning and exploratory visualizations.
 
+`notebooks/02_visual_analytics.ipynb` - Contains in depth visual analysis of the data explored in previous notebooks
+
 ## Setup Instructions
 
 1. Clone the Repository
