@@ -3,3 +3,4 @@ datasets
 matplotlib
 seaborn
 nbdime
+umap-learn
