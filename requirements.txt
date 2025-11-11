@@ -4,3 +4,7 @@ matplotlib
 seaborn
 nbdime
 umap-learn
+panel
+plotly
+jupyter_bokeh
+ast
