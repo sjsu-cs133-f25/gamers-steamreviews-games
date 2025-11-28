@@ -7,4 +7,9 @@ umap-learn
 panel
 plotly
 jupyter_bokeh
-ast
+polars
+scikit-learn
+umap-learn
+wordcloud
+sentence-transformers
+hdbscan
